@@ -1,0 +1,9 @@
+body{
+    background-color: pink;
+    color:olivedrab
+}
+.img{
+    background-image: url(../images/timg.jpg);
+    width:466px;
+    height:453px;
+}
